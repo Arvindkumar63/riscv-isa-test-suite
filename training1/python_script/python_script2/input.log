@@ -1,0 +1,25 @@
+Info 68317: 'iss/cpu0_hart0', 0x00000000800020b8(check_xip_regs+bc): Machine 22200793 addi    x15,x0,546
+Info 68317: 'iss/cpu0_hart0',   x15 0000000000000001 -> 0000000000000222
+Info 68318: 'iss/cpu0_hart0', 0x00000000800020bc(check_xip_regs+c0): Machine 00f71463 bne     x14,x15,800020c4
+Info 68319: 'iss/cpu0_hart0', 0x00000000800020c0(check_xip_regs+c4): Machine 4785     c.li    x15,1
+Info 68319: 'iss/cpu0_hart0',   x15 0000000000000222 -> 0000000000000001
+Info 68320: 'iss/cpu0_hart0', 0x00000000800020c2(check_xip_regs+c6): Machine a011     c.j     800020c6
+Info 68321: 'iss/cpu0_hart0', 0x00000000800020c6(check_xip_regs+ca): Machine fcf40ba3 sb      x15,-41(x8)
+Info 68321: 'iss/cpu0_hart0',   MEMW 0x802fefb7 0x802fefb7 1 01
+Info 68322: 'iss/cpu0_hart0', 0x00000000800020ca(check_xip_regs+ce): Machine fd744783 lbu     x15,-41(x8)
+Info 68322: 'iss/cpu0_hart0',   MEMR 0x802fefb7 0x802fefb7 1 01
+Info 68322: 'iss/cpu0_hart0',   x15 0000000000000001 -> 0000000000000001
+Info 68323: 'iss/cpu0_hart0', 0x00000000800020ce(check_xip_regs+d2): Machine 8b85     c.andi  x15,1
+Info 68323: 'iss/cpu0_hart0',   x15 0000000000000001 -> 0000000000000001
+Info 68324: 'iss/cpu0_hart0', 0x00000000800020d0(check_xip_regs+d4): Machine fcf40ba3 sb      x15,-41(x8)
+Info 68324: 'iss/cpu0_hart0',   MEMW 0x802fefb7 0x802fefb7 1 01
+Info 68325: 'iss/cpu0_hart0', 0x00000000800020d4(check_xip_regs+d8): Machine f5843783 ld      x15,-168(x8)
+Info 68325: 'iss/cpu0_hart0',   MEMR 0x802fef38 0x802fef38 8 0000000000000000
+Info 68325: 'iss/cpu0_hart0',   x15 0000000000000001 -> 0000000000000000
+Info 68326: 'iss/cpu0_hart0', 0x00000000800020d8(check_xip_regs+dc): Machine 20479073 csrrw   x0,vsie,x15
+Info 68326: 'iss/cpu0_hart0',   vsie 0000000000000222 -> 0000000000000000
+Info 68326: 'iss/cpu0_hart0',   mie 0000000000000444 -> 0000000000000000
+Info 68326: 'iss/cpu0_hart0',   hie 0000000000000444 -> 0000000000000000
+Info 68327: 'iss/cpu0_hart0', 0x00000000800020dc(check_xip_regs+e0): Machine 57fd     c.li    x15,-1
+Info 68327: 'iss/cpu0_hart0',   x15 0000000000000000 -> ffffffffffffffff
+Info 68328: 'iss/cpu0_hart0', 0x00000000800020de(check_xip_regs+e2): Machine 34479073 csrrw   x0,mip,x15

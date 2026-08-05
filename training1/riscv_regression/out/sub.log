@@ -1,0 +1,8 @@
+Spike execution completed for tests/sub.S
+run_script1.sh: line 2: $'\r': command not found
+run_script1.sh: line 5: $'\r': command not found
+/usr/local/lib/gcc/riscv64-unknown-elf/12.2.0/../../../../riscv64-unknown-elf/bin/ld: cannot find tests/sub.S: No such file or directory
+collect2: error: ld returned 1 exit status
+run_script1.sh: line 8: $'\r': command not found
+run_script1.sh: line 10: 1: ambiguous redirect
+run_script1.sh: line 11: $'\r': command not found
