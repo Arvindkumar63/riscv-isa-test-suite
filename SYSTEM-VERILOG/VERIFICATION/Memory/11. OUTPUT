@@ -1,0 +1,200 @@
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=0 | wr=1 | addr=13 | data_in=77 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=0 | wr=1 | addr=13 | data_in=77 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=5 | wr=1 | addr=13 | data_in=77 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=5 | wr=1 | addr=13 | data_in=77 | data_out=0
+# KERNEL: Write Pass: addr = 13 | data_in = 77
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=5 | wr=1 | addr=11 | data_in=231 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=5 | wr=1 | addr=11 | data_in=231 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=15 | wr=1 | addr=11 | data_in=231 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=15 | wr=1 | addr=11 | data_in=231 | data_out=0
+# KERNEL: Write Pass: addr = 11 | data_in = 231
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=15 | wr=0 | addr=9 | data_in=111 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=15 | wr=0 | addr=9 | data_in=111 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=25 | wr=0 | addr=9 | data_in=111 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=25 | wr=0 | addr=9 | data_in=111 | data_out=0
+# KERNEL: Read Pass: addr = 9 | data_out = 0
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=25 | wr=0 | addr=3 | data_in=227 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=25 | wr=0 | addr=3 | data_in=227 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=35 | wr=0 | addr=3 | data_in=227 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=35 | wr=0 | addr=3 | data_in=227 | data_out=0
+# KERNEL: Read Pass: addr = 3 | data_out = 0
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=35 | wr=1 | addr=9 | data_in=142 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=35 | wr=1 | addr=9 | data_in=142 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=45 | wr=1 | addr=9 | data_in=142 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=45 | wr=1 | addr=9 | data_in=142 | data_out=0
+# KERNEL: Write Pass: addr = 9 | data_in = 142
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=45 | wr=1 | addr=4 | data_in=231 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=45 | wr=1 | addr=4 | data_in=231 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=55 | wr=1 | addr=4 | data_in=231 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=55 | wr=1 | addr=4 | data_in=231 | data_out=0
+# KERNEL: Write Pass: addr = 4 | data_in = 231
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=55 | wr=1 | addr=14 | data_in=96 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=55 | wr=1 | addr=14 | data_in=96 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=65 | wr=1 | addr=14 | data_in=96 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=65 | wr=1 | addr=14 | data_in=96 | data_out=0
+# KERNEL: Write Pass: addr = 14 | data_in = 96
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=65 | wr=0 | addr=15 | data_in=129 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=65 | wr=0 | addr=15 | data_in=129 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=75 | wr=0 | addr=15 | data_in=129 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=75 | wr=0 | addr=15 | data_in=129 | data_out=0
+# KERNEL: Read Pass: addr = 15 | data_out = 0
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=75 | wr=0 | addr=13 | data_in=244 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=75 | wr=0 | addr=13 | data_in=244 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=85 | wr=0 | addr=13 | data_in=244 | data_out=77
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=85 | wr=0 | addr=13 | data_in=244 | data_out=77
+# KERNEL: Read Pass: addr = 13 | data_out = 77
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=85 | wr=0 | addr=9 | data_in=151 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=85 | wr=0 | addr=9 | data_in=151 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=95 | wr=0 | addr=9 | data_in=151 | data_out=142
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=95 | wr=0 | addr=9 | data_in=151 | data_out=142
+# KERNEL: Read Pass: addr = 9 | data_out = 142
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=95 | wr=0 | addr=14 | data_in=37 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=95 | wr=0 | addr=14 | data_in=37 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=105 | wr=0 | addr=14 | data_in=37 | data_out=96
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=105 | wr=0 | addr=14 | data_in=37 | data_out=96
+# KERNEL: Read Pass: addr = 14 | data_out = 96
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=105 | wr=1 | addr=10 | data_in=95 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=105 | wr=1 | addr=10 | data_in=95 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=115 | wr=1 | addr=10 | data_in=95 | data_out=96
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=115 | wr=1 | addr=10 | data_in=95 | data_out=96
+# KERNEL: Write Pass: addr = 10 | data_in = 95
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=115 | wr=1 | addr=9 | data_in=123 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=115 | wr=1 | addr=9 | data_in=123 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=125 | wr=1 | addr=9 | data_in=123 | data_out=96
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=125 | wr=1 | addr=9 | data_in=123 | data_out=96
+# KERNEL: Write Pass: addr = 9 | data_in = 123
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=125 | wr=1 | addr=1 | data_in=68 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=125 | wr=1 | addr=1 | data_in=68 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=135 | wr=1 | addr=1 | data_in=68 | data_out=96
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=135 | wr=1 | addr=1 | data_in=68 | data_out=96
+# KERNEL: Write Pass: addr = 1 | data_in = 68
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=135 | wr=0 | addr=9 | data_in=98 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=135 | wr=0 | addr=9 | data_in=98 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=145 | wr=0 | addr=9 | data_in=98 | data_out=123
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=145 | wr=0 | addr=9 | data_in=98 | data_out=123
+# KERNEL: Read Pass: addr = 9 | data_out = 123
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=145 | wr=0 | addr=2 | data_in=12 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=145 | wr=0 | addr=2 | data_in=12 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=155 | wr=0 | addr=2 | data_in=12 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=155 | wr=0 | addr=2 | data_in=12 | data_out=0
+# KERNEL: Read Pass: addr = 2 | data_out = 0
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=155 | wr=1 | addr=13 | data_in=163 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=155 | wr=1 | addr=13 | data_in=163 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=165 | wr=1 | addr=13 | data_in=163 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=165 | wr=1 | addr=13 | data_in=163 | data_out=0
+# KERNEL: Write Pass: addr = 13 | data_in = 163
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=165 | wr=1 | addr=7 | data_in=205 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=165 | wr=1 | addr=7 | data_in=205 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=175 | wr=1 | addr=7 | data_in=205 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=175 | wr=1 | addr=7 | data_in=205 | data_out=0
+# KERNEL: Write Pass: addr = 7 | data_in = 205
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=175 | wr=0 | addr=5 | data_in=107 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=175 | wr=0 | addr=5 | data_in=107 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=185 | wr=0 | addr=5 | data_in=107 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=185 | wr=0 | addr=5 | data_in=107 | data_out=0
+# KERNEL: Read Pass: addr = 5 | data_out = 0
+# KERNEL: ---------------------------------------------------------------
+# KERNEL: ---------------GENERATOR-------------
+# KERNEL: Time=185 | wr=1 | addr=4 | data_in=128 | data_out=0
+# KERNEL: ---------------DRIVER-------------
+# KERNEL: Time=185 | wr=1 | addr=4 | data_in=128 | data_out=0
+# KERNEL: ---------------MONITOR-------------
+# KERNEL: Time=195 | wr=1 | addr=4 | data_in=128 | data_out=0
+# KERNEL: ---------------SCOREBOARD-------------
+# KERNEL: Time=195 | wr=1 | addr=4 | data_in=128 | data_out=0
+# KERNEL: Write Pass: addr = 4 | data_in = 128
+# KERNEL: ---------------------------------------------------------------

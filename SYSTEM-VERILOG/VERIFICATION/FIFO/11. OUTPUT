@@ -1,0 +1,203 @@
+---------------Generator--------------
+$time=0 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=6 | rst=1 | wr_en=0 | rd_en=0 | d_in=0 | d_out=0 | full=0 | empty=1 
+---------------Scoreboard--------------
+$time=6 | rst=1 | wr_en=0 | rd_en=0 | d_in=0 | d_out=0 | full=0 | empty=1 
+Reset Active - Ignored
+------------------------------------------------------------
+---------------Generator--------------
+$time=6 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=10 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=16 | rst=1 | wr_en=0 | rd_en=1 | d_in=0 | d_out=0 | full=0 | empty=1 
+---------------Scoreboard--------------
+$time=16 | rst=1 | wr_en=0 | rd_en=1 | d_in=0 | d_out=0 | full=0 | empty=1 
+Reset Active - Ignored
+------------------------------------------------------------
+---------------Generator--------------
+$time=16 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=20 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=26 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=0 | full=0 | empty=1 
+---------------Scoreboard--------------
+$time=26 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=0 | full=0 | empty=1 
+Pass
+------------------------------------------------------------
+---------------Generator--------------
+$time=26 | rst=0 | wr_en=1 | rd_en=0 | d_in=1110000
+---------------Driver--------------
+$time=30 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=36 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=0 | full=0 | empty=1 
+---------------Scoreboard--------------
+$time=36 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=0 | full=0 | empty=1 
+Pass
+------------------------------------------------------------
+---------------Generator--------------
+$time=36 | rst=0 | wr_en=1 | rd_en=0 | d_in=10010000
+---------------Driver--------------
+$time=40 | rst=0 | wr_en=1 | rd_en=0 | d_in=1110000
+---------------Monitor--------------
+$time=46 | rst=0 | wr_en=1 | rd_en=0 | d_in=112 | d_out=0 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=46 | rst=0 | wr_en=1 | rd_en=0 | d_in=112 | d_out=0 | full=0 | empty=0 
+Write Occur
+------------------------------------------------------------
+---------------Generator--------------
+$time=46 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=50 | rst=0 | wr_en=1 | rd_en=0 | d_in=10010000
+---------------Monitor--------------
+$time=56 | rst=0 | wr_en=1 | rd_en=0 | d_in=144 | d_out=0 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=56 | rst=0 | wr_en=1 | rd_en=0 | d_in=144 | d_out=0 | full=0 | empty=0 
+Write Occur
+------------------------------------------------------------
+---------------Generator--------------
+$time=56 | rst=0 | wr_en=1 | rd_en=0 | d_in=11011100
+---------------Driver--------------
+$time=60 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=66 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=112 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=66 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=112 | full=0 | empty=0 
+Pass
+------------------------------------------------------------
+---------------Generator--------------
+$time=66 | rst=0 | wr_en=1 | rd_en=0 | d_in=1000
+---------------Driver--------------
+$time=70 | rst=0 | wr_en=1 | rd_en=0 | d_in=11011100
+---------------Monitor--------------
+$time=76 | rst=0 | wr_en=1 | rd_en=0 | d_in=220 | d_out=112 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=76 | rst=0 | wr_en=1 | rd_en=0 | d_in=220 | d_out=112 | full=0 | empty=0 
+Write Occur
+------------------------------------------------------------
+---------------Generator--------------
+$time=76 | rst=0 | wr_en=1 | rd_en=0 | d_in=1001
+---------------Driver--------------
+$time=80 | rst=0 | wr_en=1 | rd_en=0 | d_in=1000
+---------------Monitor--------------
+$time=86 | rst=0 | wr_en=1 | rd_en=0 | d_in=8 | d_out=112 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=86 | rst=0 | wr_en=1 | rd_en=0 | d_in=8 | d_out=112 | full=0 | empty=0 
+Write Occur
+------------------------------------------------------------
+---------------Generator--------------
+$time=86 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=90 | rst=0 | wr_en=1 | rd_en=0 | d_in=1001
+---------------Monitor--------------
+$time=96 | rst=0 | wr_en=1 | rd_en=0 | d_in=9 | d_out=112 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=96 | rst=0 | wr_en=1 | rd_en=0 | d_in=9 | d_out=112 | full=0 | empty=0 
+Write Occur
+------------------------------------------------------------
+---------------Generator--------------
+$time=96 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=100 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=106 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=144 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=106 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=144 | full=0 | empty=0 
+Pass
+------------------------------------------------------------
+---------------Generator--------------
+$time=106 | rst=0 | wr_en=1 | rd_en=0 | d_in=101011
+---------------Driver--------------
+$time=110 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=116 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=220 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=116 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=220 | full=0 | empty=0 
+Pass
+------------------------------------------------------------
+---------------Generator--------------
+$time=116 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=120 | rst=0 | wr_en=1 | rd_en=0 | d_in=101011
+---------------Monitor--------------
+$time=126 | rst=0 | wr_en=1 | rd_en=0 | d_in=43 | d_out=220 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=126 | rst=0 | wr_en=1 | rd_en=0 | d_in=43 | d_out=220 | full=0 | empty=0 
+Write Occur
+------------------------------------------------------------
+---------------Generator--------------
+$time=126 | rst=0 | wr_en=1 | rd_en=0 | d_in=10101101
+---------------Driver--------------
+$time=130 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=136 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=8 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=136 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=8 | full=0 | empty=0 
+Pass
+------------------------------------------------------------
+---------------Generator--------------
+$time=136 | rst=0 | wr_en=1 | rd_en=0 | d_in=11110100
+---------------Driver--------------
+$time=140 | rst=0 | wr_en=1 | rd_en=0 | d_in=10101101
+---------------Monitor--------------
+$time=146 | rst=0 | wr_en=1 | rd_en=0 | d_in=173 | d_out=8 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=146 | rst=0 | wr_en=1 | rd_en=0 | d_in=173 | d_out=8 | full=0 | empty=0 
+Write Occur
+------------------------------------------------------------
+---------------Generator--------------
+$time=146 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=150 | rst=0 | wr_en=1 | rd_en=0 | d_in=11110100
+---------------Monitor--------------
+$time=156 | rst=0 | wr_en=1 | rd_en=0 | d_in=244 | d_out=8 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=156 | rst=0 | wr_en=1 | rd_en=0 | d_in=244 | d_out=8 | full=0 | empty=0 
+Write Occur
+------------------------------------------------------------
+---------------Generator--------------
+$time=156 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=160 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=166 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=9 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=166 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=9 | full=0 | empty=0 
+Pass
+------------------------------------------------------------
+---------------Generator--------------
+$time=166 | rst=0 | wr_en=1 | rd_en=0 | d_in=11010110
+---------------Driver--------------
+$time=170 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=176 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=43 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=176 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=43 | full=0 | empty=0 
+Pass
+------------------------------------------------------------
+---------------Generator--------------
+$time=176 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=180 | rst=0 | wr_en=1 | rd_en=0 | d_in=11010110
+---------------Monitor--------------
+$time=186 | rst=0 | wr_en=1 | rd_en=0 | d_in=214 | d_out=43 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=186 | rst=0 | wr_en=1 | rd_en=0 | d_in=214 | d_out=43 | full=0 | empty=0 
+Write Occur
+------------------------------------------------------------
+---------------Generator--------------
+$time=186 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Driver--------------
+$time=190 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+---------------Monitor--------------
+$time=196 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=173 | full=0 | empty=0 
+---------------Scoreboard--------------
+$time=196 | rst=0 | wr_en=0 | rd_en=1 | d_in=0 | d_out=173 | full=0 | empty=0 
+Pass
+------------------------------------------------------------
+---------------Driver--------------
+$time=200 | rst=0 | wr_en=0 | rd_en=1 | d_in=0
+$finish at simulation time                  200
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 200 ns

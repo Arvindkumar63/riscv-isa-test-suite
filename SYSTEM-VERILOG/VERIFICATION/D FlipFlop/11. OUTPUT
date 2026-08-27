@@ -1,0 +1,202 @@
+GENERATOR
+Time = 0 | rst=0 | d=1 | q=0
+DRIVER
+Time = 5 | rst=0 | d=1 | q=0
+rst = 1
+MONITOR
+Time = 5 | rst=1 | d=0 | q=0
+SCOREBOARD
+Time = 5 | rst=1 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 5 | rst=0 | d=1 | q=0
+MONITOR
+Time = 15 | rst=1 | d=1 | q=0
+DRIVER
+Time = 15 | rst=0 | d=1 | q=0
+rst = 1
+SCOREBOARD
+Time = 15 | rst=1 | d=1 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 15 | rst=0 | d=1 | q=0
+MONITOR
+Time = 25 | rst=1 | d=1 | q=0
+DRIVER
+Time = 25 | rst=0 | d=1 | q=0
+rst = 1
+SCOREBOARD
+Time = 25 | rst=1 | d=1 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 25 | rst=0 | d=1 | q=0
+MONITOR
+Time = 35 | rst=0 | d=1 | q=1
+DRIVER
+Time = 35 | rst=0 | d=1 | q=0
+rst = 0
+SCOREBOARD
+Time = 35 | rst=0 | d=1 | q=1
+----------------PASS----------------
+GENERATOR
+Time = 35 | rst=0 | d=0 | q=0
+MONITOR
+Time = 45 | rst=0 | d=1 | q=1
+DRIVER
+Time = 45 | rst=0 | d=0 | q=0
+rst = 0
+SCOREBOARD
+Time = 45 | rst=0 | d=1 | q=1
+----------------PASS----------------
+GENERATOR
+Time = 45 | rst=0 | d=1 | q=0
+MONITOR
+Time = 55 | rst=0 | d=0 | q=0
+DRIVER
+Time = 55 | rst=0 | d=1 | q=0
+rst = 0
+SCOREBOARD
+Time = 55 | rst=0 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 55 | rst=0 | d=0 | q=0
+MONITOR
+Time = 65 | rst=0 | d=1 | q=1
+DRIVER
+Time = 65 | rst=0 | d=0 | q=0
+rst = 0
+SCOREBOARD
+Time = 65 | rst=0 | d=1 | q=1
+----------------PASS----------------
+GENERATOR
+Time = 65 | rst=0 | d=1 | q=0
+MONITOR
+Time = 75 | rst=0 | d=0 | q=0
+DRIVER
+Time = 75 | rst=0 | d=1 | q=0
+rst = 0
+SCOREBOARD
+Time = 75 | rst=0 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 75 | rst=0 | d=0 | q=0
+MONITOR
+Time = 85 | rst=0 | d=1 | q=1
+DRIVER
+Time = 85 | rst=0 | d=0 | q=0
+rst = 0
+SCOREBOARD
+Time = 85 | rst=0 | d=1 | q=1
+----------------PASS----------------
+GENERATOR
+Time = 85 | rst=0 | d=0 | q=0
+MONITOR
+Time = 95 | rst=0 | d=0 | q=0
+DRIVER
+Time = 95 | rst=0 | d=0 | q=0
+rst = 0
+SCOREBOARD
+Time = 95 | rst=0 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 95 | rst=0 | d=0 | q=0
+MONITOR
+Time = 105 | rst=0 | d=0 | q=0
+DRIVER
+Time = 105 | rst=0 | d=0 | q=0
+rst = 0
+SCOREBOARD
+Time = 105 | rst=0 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 105 | rst=0 | d=0 | q=0
+MONITOR
+Time = 115 | rst=0 | d=0 | q=0
+DRIVER
+Time = 115 | rst=0 | d=0 | q=0
+rst = 0
+SCOREBOARD
+Time = 115 | rst=0 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 115 | rst=0 | d=1 | q=0
+MONITOR
+Time = 125 | rst=0 | d=0 | q=0
+DRIVER
+Time = 125 | rst=0 | d=1 | q=0
+rst = 0
+SCOREBOARD
+Time = 125 | rst=0 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 125 | rst=0 | d=1 | q=0
+MONITOR
+Time = 135 | rst=0 | d=1 | q=1
+DRIVER
+Time = 135 | rst=0 | d=1 | q=0
+rst = 0
+SCOREBOARD
+Time = 135 | rst=0 | d=1 | q=1
+----------------PASS----------------
+GENERATOR
+Time = 135 | rst=0 | d=0 | q=0
+MONITOR
+Time = 145 | rst=0 | d=1 | q=1
+DRIVER
+Time = 145 | rst=0 | d=0 | q=0
+rst = 0
+SCOREBOARD
+Time = 145 | rst=0 | d=1 | q=1
+----------------PASS----------------
+GENERATOR
+Time = 145 | rst=0 | d=0 | q=0
+MONITOR
+Time = 155 | rst=0 | d=0 | q=0
+DRIVER
+Time = 155 | rst=0 | d=0 | q=0
+rst = 0
+SCOREBOARD
+Time = 155 | rst=0 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 155 | rst=0 | d=0 | q=0
+MONITOR
+Time = 165 | rst=0 | d=0 | q=0
+DRIVER
+Time = 165 | rst=0 | d=0 | q=0
+rst = 0
+SCOREBOARD
+Time = 165 | rst=0 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 165 | rst=0 | d=1 | q=0
+MONITOR
+Time = 175 | rst=0 | d=0 | q=0
+DRIVER
+Time = 175 | rst=0 | d=1 | q=0
+rst = 0
+SCOREBOARD
+Time = 175 | rst=0 | d=0 | q=0
+----------------PASS----------------
+GENERATOR
+Time = 175 | rst=0 | d=1 | q=0
+MONITOR
+Time = 185 | rst=0 | d=1 | q=1
+DRIVER
+Time = 185 | rst=0 | d=1 | q=0
+rst = 0
+SCOREBOARD
+Time = 185 | rst=0 | d=1 | q=1
+----------------PASS----------------
+GENERATOR
+Time = 185 | rst=0 | d=1 | q=0
+MONITOR
+Time = 195 | rst=0 | d=1 | q=1
+DRIVER
+Time = 195 | rst=0 | d=1 | q=0
+rst = 0
+SCOREBOARD
+Time = 195 | rst=0 | d=1 | q=1
+----------------PASS----------------
+GENERATOR
+Time = 195 | rst=0 | d=0 | q=0

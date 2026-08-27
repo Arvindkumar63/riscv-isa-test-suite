@@ -1,0 +1,11 @@
+# KERNEL: Info: testbench.sv (38): 5, A=0 and B=0, assertion failed
+# KERNEL: Info: testbench.sv (39): 15, A=0 and B=1, assertion failed
+# KERNEL: Info: testbench.sv (40): 25, A=1 and B=0, assertion failed
+# KERNEL: 35, A=1 and B=1,assertion Success
+# KERNEL: Error: testbench.sv (42): 45 fail
+# KERNEL: Error: testbench.sv (42): 55 fail
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (33): $finish called.
+# KERNEL: Time: 60 ns,  Iteration: 0,  Instance: /tb,  Process: @INITIAL#11_1@.
+# KERNEL: stopped at time: 60 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
