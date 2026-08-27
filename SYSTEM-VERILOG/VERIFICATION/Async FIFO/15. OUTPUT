@@ -1,0 +1,15 @@
+Reset active ignored
+Reset active ignored
+Reset active ignored
+Write Occur--------------------> Input = 17 
+Test Pass-------> Read Data : Actual data=0 | Expected data=0 
+Write Occur--------------------> Input = 71 
+Write Occur--------------------> Input = 25 
+Test Pass-------> Read Data : Actual data=17 | Expected data=17 
+Test Pass-------> Read Data : Actual data=71 | Expected data=71 
+Write Occur--------------------> Input = 238 
+Test Pass-------> Read Data : Actual data=25 | Expected data=25 
+Write Occur--------------------> Input = 80 
+Test Pass-------> Read Data : Actual data=238 | Expected data=238 
+Write Occur--------------------> Input = 136 
+Test Pass-------> Read Data : Actual data=80 | Expected data=80 

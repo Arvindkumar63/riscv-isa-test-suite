@@ -1,0 +1,23 @@
+// Overriding class members
+class parent_class;
+  bit [31:0] addr;
+  function display();
+    $display("Addr = %0d",addr);
+  endfunction
+endclass
+
+class child_class extends parent_class;
+  bit [31:0] data;
+  function display();
+    $display("Data = %0d",data);
+  endfunction
+endclass
+
+module override_display;
+  initial begin
+    child_class c=new();
+    c.addr = 10;
+    c.data = 20;
+    c.display();
+  end
+endmodule
